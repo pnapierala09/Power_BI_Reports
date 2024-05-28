@@ -1,5 +1,6 @@
-# Power_BI_Reports
+# AdventureWorks Sales Report
 
+Database - [AdventureWorksDW2019](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 ![Sales_Analysis](https://github.com/pnapierala09/Power_BI_Reports/assets/149004259/e7263b19-e0c1-446e-b167-59194026be90)
 
 ![Product_Analysis](https://github.com/pnapierala09/Power_BI_Reports/assets/149004259/4e865ac8-32fe-47a3-bcf9-56bdf34feb75)
